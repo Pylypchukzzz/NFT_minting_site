@@ -79,7 +79,7 @@ const App = () => {
           style={{ fontWeight: "bold" }}
           display="inline"
         >
-           You Gifted
+          Treedom
         </Typography>
         {" " + new Date().getFullYear()}
         {"."}
@@ -142,7 +142,7 @@ const App = () => {
                   variant="h6"
                   align="left"
                 >
-                  
+                  Unique way of tree adoption
                 </Typography>
               </Grid>
               <Grid item lg={12} md={12}>
