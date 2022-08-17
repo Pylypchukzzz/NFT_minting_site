@@ -73,13 +73,13 @@ const App = () => {
   function Copyright() {
     return (
       <Typography variant="body2" style={{ textAlign: "center" }}>
-        {"Copyright © "}
+        {"Created by © "}
         <Typography
           variant="body2"
           style={{ fontWeight: "bold" }}
           display="inline"
         >
-          Treedom
+           You Gifted
         </Typography>
         {" " + new Date().getFullYear()}
         {"."}
@@ -142,7 +142,7 @@ const App = () => {
                   variant="h6"
                   align="left"
                 >
-                  Unique way of tree adoption
+                  
                 </Typography>
               </Grid>
               <Grid item lg={12} md={12}>
